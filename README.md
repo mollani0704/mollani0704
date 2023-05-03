@@ -3,7 +3,7 @@
 Welcome to My Page~
 I'm JongSeong Moon, I wanna be FullStack Developer from Korea
 
-**Things I code with**
+## **Things I code with**
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-html5-F44336?style=flat-square&logo=html5&logoColor=white" />
